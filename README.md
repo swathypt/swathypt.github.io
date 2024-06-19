@@ -4,11 +4,12 @@
 ### EDUCATION
 
 #### University of Canterbury
-  
   Master of Applied Data Science (2024)
-Alagappa University, India      Master of Business Administration in Technology Management (2016)
-Alagappa University, India       Bachelor of Computer Applications (2013)
-NTTF, India                                  Diploma in Computer Engineering (2009)
+#### Alagappa University, India      
+  Master of Business Administration in Technology Management (2016)
+  Bachelor of Computer Applications (2013)
+#### NTTF, India
+  Diploma in Computer Engineering (2009)
 
 ### WORK EXPERIENCE
 Data Scientist Intern | University of Canterbury | NOV 2023- FEB 2024
