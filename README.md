@@ -1,5 +1,3 @@
-# My Portfolio
+# Welcome to My Portfolio
 
-Visit: [My GitHub Page](https://yourgithubusername.github.io)
-
-[Experience](experience.md) | [Projects](projects.md) | [Education](education.md) | [Skills](skills.md) | [Certifications](certifications.md) | [Contact](contact.md)
+Explore my work and experience on [my GitHub Page](https://yourgithubusername.github.io).
