@@ -60,6 +60,7 @@ Enhanced prompt accuracy by defining classification variables separately, reduci
 *	Data Science Project (DATA601) - Algorithmic model development using Python, Snowflake, SQL.
   
 ### CERTIFICATIONS
+* Microsoft Certified: Azure AI Engineer Associate (AI-102)
 *	Red Hat Certified Engineer (RHCE)
 *	Red Hat Certified System Administrator (RHCSA)
 *	CCNA Exploration 4.0 Cisco.
