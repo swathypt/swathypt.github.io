@@ -1,4 +1,5 @@
-# Welcome to My Portfolio
+# SWATHY P THANKACHAN
+## Welcome to My Portfolio
 
 ### EDUCATION
 
