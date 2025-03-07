@@ -2,20 +2,3 @@ title: SWATHY P THANKACHAN
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-remote-theme
-
-# Navigation Menu  
-navigation:
-  - name: Home
-    link: index.md
-  - name: Experience
-    link: experience.md
-  - name: Projects
-    link: projects.md
-  - name: Education
-    link: education.md
-  - name: Skills
-    link: skills.md
-  - name: Certifications
-    link: certifications.md
-  - name: Contact
-    link: contact.md
