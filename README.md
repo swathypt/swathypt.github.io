@@ -10,8 +10,8 @@
 ### WORK EXPERIENCE
 
 ####  AI Software Developer Intern | Revo Tech | Current
-Achieved higher accuracy, minimized false positives/negatives, and ensured decision tree logic aligned seamlessly with API outputs.
-Enhanced prompt accuracy by defining classification variables separately, reducing redundancy, improving clarity, and ensuring consistent decision-making by model.
+* Achieved higher accuracy, minimized false positives/negatives, and ensured decision tree logic aligned seamlessly with API outputs.
+* Enhanced prompt accuracy by defining classification variables separately, reducing redundancy, improving clarity, and ensuring consistent decision-making by model.
 
 #### Data Scientist Intern | University of Canterbury | NOV 2023- FEB 2024
 *	Developed a Course Recommendation System utilizing the PAPRIKA method to enhance student academic decision-making.
