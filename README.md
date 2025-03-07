@@ -9,6 +9,10 @@
 
 ### WORK EXPERIENCE
 
+####  AI Software Developer Intern | Revo Tech | Current
+Achieved higher accuracy, minimized false positives/negatives, and ensured decision tree logic aligned seamlessly with API outputs.
+Enhanced prompt accuracy by defining classification variables separately, reducing redundancy, improving clarity, and ensuring consistent decision-making by model.
+
 #### Data Scientist Intern | University of Canterbury | NOV 2023- FEB 2024
 *	Developed a Course Recommendation System utilizing the PAPRIKA method to enhance student academic decision-making.
 *	Engaged in data analysis and processing using SQL on extensive datasets, focusing on first-year student data to inform model training.
@@ -61,6 +65,8 @@
 *	CCNA Exploration 4.0 Cisco.
   
 ### TRAININGS 
+*	AI-900: Microsoft Azure AI Fundamentals
+*	AI-102: Azure AI Engineer Associate
 *	Full stack data science by Ineuron, India
 *	Data analytics and machine learning using python by IPSR, India
 *	Introduction to data science and deep learning by IPSR, India.
@@ -77,4 +83,5 @@
 *	Recognized for standardizing scripts in a short period of time while transferring old scripts from a crashed server to a new one. Over 1,000 Python scripts were standardized and migrated from a crashed server to a new server within a month.
 *	Selected as the best support engineer at HCL Information Systems.
 *	Achieved 40+ feedbacks on achieving the timely completion of assigned tickets from various HCL clients including senior officials in the government sector.
+*	Led a project during my master’s program to develop an Urban Data Centre for Christchurch, delivering community-focused data solutions using AWS. This project was showcased at the Tertiary ICT Conference as a model of leveraging AWS Proof of Concept for student innovation and learning.
 
