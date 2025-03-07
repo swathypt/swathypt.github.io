@@ -1,4 +1,3 @@
-# SWATHY P T
 # Welcome to My Portfolio
 
 ### EDUCATION
